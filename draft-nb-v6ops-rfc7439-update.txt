@@ -2,14 +2,14 @@
 
 
 
-WG Working Group                                              Y. N. Here
-Internet-Draft                                    Your Organization Here
+v6ops                                                        N. Buraglio
+Internet-Draft                                   Energy Sciences Network
 Intended status: Informational                             12 March 2025
 Expires: 13 September 2025
 
 
-                           TODO - Your title
-                  draft-todo-yourname-protocol-latest
+       Updated Gap Analysis for Operating IPv6-Only MPLS Networks
+                  draft-nb-v6ops-rfc7439-update-latest
 
 Abstract
 
@@ -21,12 +21,13 @@ About This Document
 
    The latest revision of this draft can be found at
    https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-todo-yourname-
-   protocol/.
+   be found at https://datatracker.ietf.org/doc/draft-nb-v6ops-
+   rfc7439-update/.
 
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   Discussion of this document takes place on the v6ops Working Group
+   mailing list (mailto:v6ops@ietf.org), which is archived at
+   https://datatracker.ietf.org/wg/v6ops/about/WG.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/v6ops/.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/USER/REPO.
@@ -109,6 +110,6 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
-   Your Organization Here
-   Email: your.email@example.com
+   Nick Buraglio
+   Energy Sciences Network
+   Email: buraglio@forwardingplane.net
