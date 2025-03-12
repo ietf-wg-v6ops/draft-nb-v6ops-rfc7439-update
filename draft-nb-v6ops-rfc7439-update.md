@@ -9,18 +9,18 @@ number:
 date:
 consensus: true
 v: 3
-area: ops
-workgroup: v6ops
+area: ""
+workgroup: "IPv6 Operations"
 keyword:
  - IPv6
  - MPLS
 venue:
-  group: v6ops
-  type: Working Group
-  mail: v6ops@ietf.org
-  arch: https://datatracker.ietf.org/wg/v6ops/about/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "IPv6 Operations"
+  type: ""
+  mail: "v6ops@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/v6ops/"
+  github: "ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update"
+  latest: "https://ietf-wg-v6ops.github.io/draft-nb-v6ops-rfc7439-update/draft-nb-v6ops-rfc7439-update.html"
 
 author:
  -
