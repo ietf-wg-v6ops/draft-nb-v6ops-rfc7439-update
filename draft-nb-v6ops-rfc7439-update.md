@@ -57,7 +57,28 @@ TODO Introduction
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
+# Use Case
 
+# Gap Analysis
+
+# MPLS Data plane
+
+# MPLS Control plane
+
+## MPLS-SR
+
+### SR-TE
+
+### Segment Routing (SR) Point-to-Multipoint (P2MP)
+
+## Topology-Independent Loop-Free Alternate (TI-LFA) Fast Reroute (FRR)
+
+## SRv6
+
+## RSVP - Traffic Engineering (RSVP-TE)
+
+### Interior Gateway Protocol (IGP)
+ 
 # Security Considerations
 
 TODO Security
