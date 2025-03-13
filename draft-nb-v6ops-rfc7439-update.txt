@@ -2,10 +2,10 @@
 
 
 
-v6ops                                                        N. Buraglio
+IPv6 Operations                                              N. Buraglio
 Internet-Draft                                   Energy Sciences Network
-Intended status: Informational                             12 March 2025
-Expires: 13 September 2025
+Intended status: Informational                             13 March 2025
+Expires: 14 September 2025
 
 
        Updated Gap Analysis for Operating IPv6-Only MPLS Networks
@@ -19,18 +19,19 @@ About This Document
 
    This note is to be removed before publishing as an RFC.
 
-   The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-nb-v6ops-
+   The latest revision of this draft can be found at https://ietf-wg-
+   v6ops.github.io/draft-nb-v6ops-rfc7439-update/draft-nb-v6ops-
+   rfc7439-update.html.  Status information for this document may be
+   found at https://datatracker.ietf.org/doc/draft-nb-v6ops-
    rfc7439-update/.
 
-   Discussion of this document takes place on the v6ops Working Group
+   Discussion of this document takes place on the IPv6 Operations
    mailing list (mailto:v6ops@ietf.org), which is archived at
-   https://datatracker.ietf.org/wg/v6ops/about/WG.  Subscribe at
+   https://mailarchive.ietf.org/arch/browse/v6ops/.  Subscribe at
    https://www.ietf.org/mailman/listinfo/v6ops/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update.
 
 Status of This Memo
 
@@ -47,7 +48,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 13 September 2025.
+   This Internet-Draft will expire on 14 September 2025.
 
 Copyright Notice
 
