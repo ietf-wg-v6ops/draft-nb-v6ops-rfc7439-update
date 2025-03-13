@@ -32,11 +32,9 @@ normative:
 
 informative:
 
-
 --- abstract
 
 TODO Abstract
-
 
 --- middle
 
@@ -44,21 +42,17 @@ TODO Abstract
 
 TODO Introduction
 
-
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
-
 
 # Security Considerations
 
 TODO Security
 
-
 # IANA Considerations
 
 This document has no IANA actions.
-
 
 --- back
 
