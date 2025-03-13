@@ -101,6 +101,11 @@ Table of Contents
               DOI 10.17487/RFC2119, March 1997,
               <https://www.rfc-editor.org/rfc/rfc2119>.
 
+   [RFC7439]  George, W., Ed. and C. Pignataro, Ed., "Gap Analysis for
+              Operating IPv6-Only MPLS Networks", RFC 7439,
+              DOI 10.17487/RFC7439, January 2015,
+              <https://www.rfc-editor.org/rfc/rfc7439>.
+
    [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
               May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
