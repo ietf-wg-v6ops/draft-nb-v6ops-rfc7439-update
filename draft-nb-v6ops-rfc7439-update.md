@@ -57,6 +57,7 @@ TODO Introduction
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
+
 # Use Case
 
 # Gap Analysis
@@ -64,6 +65,10 @@ TODO Introduction
 # MPLS Data plane
 
 # MPLS Control plane
+
+## RSVP - Traffic Engineering (RSVP-TE)
+
+## Interior Gateway Protocol (IGP)
 
 ## MPLS-SR
 
@@ -74,10 +79,6 @@ TODO Introduction
 ## Topology-Independent Loop-Free Alternate (TI-LFA) Fast Reroute (FRR)
 
 ## SRv6
-
-## RSVP - Traffic Engineering (RSVP-TE)
-
-### Interior Gateway Protocol (IGP)
 
 # Security Considerations
 
