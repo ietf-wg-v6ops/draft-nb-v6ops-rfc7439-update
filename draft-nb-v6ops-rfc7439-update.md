@@ -48,44 +48,19 @@ In addition to the legacy MPLS protocol suite, the tooling, capabilities, MPLS h
 and simplified in complexity with the advent of segment routing and SRv6. This document updates RFC 7439
 to include those contemporary feature sets compliance with running in an IPv6-only environment.
 
-
 --- middle
 
 # Introduction
 
 TODO Introduction
 
-
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
 
-# Use Case
-
-# Gap Analysis
-
-# MPLS Data plane
-
-# MPLS Control plane
-
-## MPLS-SR
-
-### SR-TE
-
-### Segment Routing (SR) Point-to-Multipoint (P2MP)
-
-## Topology-Independent Loop-Free Alternate (TI-LFA) Fast Reroute (FRR)
-
-## SRv6
-
-## RSVP - Traffic Engineering (RSVP-TE)
-
-### Interior Gateway Protocol (IGP)
-
 # Security Considerations
 
 TODO Security
-
 
 # IANA Considerations
 
