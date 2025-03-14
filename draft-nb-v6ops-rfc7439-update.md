@@ -1,16 +1,16 @@
 ---
 title: "Updated Gap Analysis for Operating IPv6-Only MPLS Networks"
 abbrev: "Operating IPv6-Only MPLS Networks"
-category: info
-
 docname: draft-nb-v6ops-rfc7439-update-latest
 submissiontype: IETF
+pi: [toc, sortrefs, symrefs]
 number:
 date:
 consensus: true
 v: 3
-area: "ops"
-workgroup: "IPv6 Operations"
+area: ops
+wg: v6ops
+category: info
 keyword:
  - IPv6
  - MPLS
@@ -24,9 +24,11 @@ venue:
 
 author:
  -
+    ins: N. Buraglio
     fullname: Nick Buraglio
     organization: Energy Sciences Network
-    email: "buraglio@forwardingplane.net"
+    email: buraglio@forwardingplane.net
+    country: USA
 
 normative:
   RFC7439:
@@ -93,5 +95,3 @@ This document has no IANA actions.
 # Acknowledgments
 The authors would like to thank Wes George, for their input and comments.
 {:numbered="false"}
-
-TODO acknowledge.
