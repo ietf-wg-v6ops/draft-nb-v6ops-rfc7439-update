@@ -1,0 +1,109 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2025-03-16T01:24:50.471881+00:00",
+  "repo": "ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOOHcce86Oky2r",
+      "title": "Buraglio initial pass",
+      "url": "https://github.com/ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update/pull/1",
+      "state": "CLOSED",
+      "author": "buraglio",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-03-13T20:45:15Z",
+      "updatedAt": "2025-03-13T20:47:45Z",
+      "baseRepository": "ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update",
+      "baseRefName": "main",
+      "baseRefOid": "0a393ec1ae175ea12694db577a9e27b98da17e5e",
+      "headRepository": "ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update",
+      "headRefName": "buraglio-initial-pass",
+      "headRefOid": "7fea8b2419951edfff2093117b6bfb8537dd8a11",
+      "closedAt": "2025-03-13T20:47:45Z",
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOOHcce86Ok0SG",
+      "title": "Buraglio initial pass",
+      "url": "https://github.com/ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update/pull/2",
+      "state": "MERGED",
+      "author": "buraglio",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2025-03-13T20:49:11Z",
+      "updatedAt": "2025-03-13T20:55:29Z",
+      "baseRepository": "ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update",
+      "baseRefName": "main",
+      "baseRefOid": "0a393ec1ae175ea12694db577a9e27b98da17e5e",
+      "headRepository": "ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update",
+      "headRefName": "buraglio-initial-pass",
+      "headRefOid": "20c57f7ef43fec0530cffcf6766d20f733cc2e11",
+      "closedAt": "2025-03-13T20:55:28Z",
+      "mergedAt": "2025-03-13T20:55:28Z",
+      "mergedBy": "buraglio",
+      "mergeCommit": {
+        "oid": "ff310118fe6e3be74e6c18baabb5576b936d1120"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
