@@ -24,7 +24,7 @@ venue:
 
 author:
  -
-    ins: N. Buraglio
+    ins: N. Buraglio - Find better authors
     fullname: Nick Buraglio
     organization: Energy Sciences Network
     email: buraglio@forwardingplane.net
