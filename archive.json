@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-05-03T02:51:58.122101+00:00",
+  "timestamp": "2026-05-05T02:41:56.821707+00:00",
   "repo": "ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update",
   "labels": [
     {
@@ -49,7 +49,24 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 3,
+      "id": "I_kwDOOHcce88AAAABBPAAaQ",
+      "title": "draft-ietf-v6ops-rfc6146-bis",
+      "url": "https://github.com/ietf-wg-v6ops/draft-nb-v6ops-rfc7439-update/issues/3",
+      "state": "OPEN",
+      "author": "buraglio",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-05-04T15:39:33Z",
+      "updatedAt": "2026-05-04T15:39:33Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": [
     {
       "number": 1,
